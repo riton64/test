@@ -1,0 +1,2 @@
+Bonjour Henri
+lancer jupyter notebook pour lire fichier *.ipynb
